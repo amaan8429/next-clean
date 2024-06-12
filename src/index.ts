@@ -65,3 +65,5 @@ async function main() {
     );
   }
 }
+
+main();
